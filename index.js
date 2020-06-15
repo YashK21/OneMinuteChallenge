@@ -5,7 +5,7 @@ const timelimit = {
     hard:15
 }
 var timeleft;
-var level = prompt("Choose your level: 60 seconds for easy, 30 seconds for medium, 15 seconds for hard").toLowerCase();
+var level = prompt("Choose your level: easy for 60 seconds, medium for 30 seconds, hard for 15 seconds").toLowerCase();
 switch(level) {
   case "easy":
     timeleft = timelimit.easy;
