@@ -114,3 +114,9 @@ margin-bottom: 50%;
 {
 color: rgb(0,0,0);
 }
+@media screen and (max-width: 800px) {
+  #time ,#seconds,#message,.nine,#eight,#seven,#sixth,.fifth,.fourth,#third,#second,#first{
+    width: 100%;
+    margin: 0 auto; /* The width is 100%, when the viewport is 800px or smaller */
+}
+}
