@@ -31,10 +31,10 @@ const timedisplay =  document.querySelector("#times");
 const message =  document.querySelector("#message");
 const seconds =  document.querySelector("#seconds");
 const words = ['hat',
-  'river',
-  'lucky',
-  'statue',
-  'generate'
+  'River',
+  'Lucky',
+  'Statue',
+  'Generate'
 ];
 function init() {
   // Show number of seconds in UI
