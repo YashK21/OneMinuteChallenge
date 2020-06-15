@@ -1,0 +1,116 @@
+*{
+  margin: 10px;
+}
+button{
+  background-color: rgb(0,0,0);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center; 
+  display: inline-block;
+  font-size: 16px;
+  line-height: 60px;
+  font-weight: bold;
+  padding: 0 40px;
+  background: salmon;
+}
+.tenth
+{
+	display: block;
+}
+#h1
+{
+	vertical-align: middle;
+	
+}
+button:hover {
+  background: lightsalmon;
+}
+  font-weight: bold;
+  padding: 0 40px;
+  background: salmon;
+}
+button:hover {
+  background: lightsalmon;
+}
+body
+{
+	text-align: center;
+	background-color: rgb(169,169,169);
+	font-family: 'Boogaloo' ,cursive;
+}
+h1
+{
+ color: rgb(255,255,255);
+ margin-top: 0%;
+ font-size: 50px;
+ }
+ #time
+ {
+ 	color: rgb(255,255,0);
+ }
+#first
+{
+	font-size: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+	color:rgb(125,22,26);
+}
+#second
+{
+	font-size: 300%;
+	text-transform:capitalize;
+}
+#third
+{
+	height: 50px;
+	width: 400px;
+	font-size: 30px;
+	border-radius: 5px;
+}
+.fourth
+{ 
+  display: inline-block;
+	text-transform: capitalize;
+	margin: 5%;
+	font-size: 150%;
+}
+.fifth
+{
+	display: block;
+	color: rgb(255,255,255);
+    margin-left: 200px;
+   margin-right: 200px;
+	border: 1px solid rgb(166,166,166);
+	padding-left: 30px;
+	padding-right: 30px;	
+	padding-bottom: 40px;
+	padding: 0 auto;
+background-color: rgb(0,0,0);
+}
+#sixth
+{
+	background-color: rgb(100,100,100);
+}
+
+#seven
+{
+	font-size: 25px;
+}
+#eight
+{
+	font-size: 10px;
+}
+.nine
+{
+	margin-top: 200%;
+margin-bottom: 50%;
+}
+#message
+{
+	font-family: 'Boogaloo';
+}
+#Seconds
+{
+color: rgb(0,0,0);
+}
